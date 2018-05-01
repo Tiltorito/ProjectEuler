@@ -8,15 +8,15 @@ public class SumSquareDifference {
     }
 
     public static int sumSquareDifference(int n) {
-        int[] squares = new int[n + 1];
-        int[] sum = new int[n + 1];
+        int squares = 0;
+        int sum = 0;
 
         for(int i = 1; i <= n; i++) {
-            squares[i] = squares[i - 1] + (int)Math.pow(i, 2);
-            sum[i] = sum[i - 1] + i;
+            squares += (int)Math.pow(i, 2);
+            sum += i;
         }
 
 
-        return (int)(Math.pow(sum[n], 2) - squares[n]);
+        return (int)(Math.pow(sum, 2) - squares);
     }
 }

@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0543d76e-8998-4427-93e5-222d3102fb9a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/SumSquareDifference.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/SumSquareDifference.java" afterPath="$PROJECT_DIR$/src/SumSquareDifference.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,8 +46,8 @@
       <file leaf-file-name="SumSquareDifference.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/SumSquareDifference.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+            <state relative-caret-position="102">
+              <caret line="6" column="54" lean-forward="false" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
               <folding>
                 <element signature="e#122#123#0" expanded="true" />
                 <element signature="e#183#184#0" expanded="true" />
@@ -353,7 +353,7 @@
       <workItem from="1524577246128" duration="1836000" />
       <workItem from="1524580574569" duration="2087000" />
       <workItem from="1524587686613" duration="14000" />
-      <workItem from="1525200980721" duration="1916000" />
+      <workItem from="1525200980721" duration="2066000" />
     </task>
     <task id="LOCAL-00001" summary="Solved problem 2">
       <created>1524578057788</created>
@@ -383,11 +383,18 @@
       <option name="project" value="LOCAL" />
       <updated>1525202137896</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Solved problem 6">
+      <created>1525202979225</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1525202979225</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5853000" />
+    <option name="totallyTimeSpent" value="6003000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1053" extended-state="0" />
@@ -433,7 +440,8 @@
     <MESSAGE value="Solved problem 3" />
     <MESSAGE value="Solved problem 4" />
     <MESSAGE value="Solved problem 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solved problem 5" />
+    <MESSAGE value="Solved problem 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved problem 6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -568,8 +576,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SumSquareDifference.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        <state relative-caret-position="102">
+          <caret line="6" column="54" lean-forward="false" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
           <folding>
             <element signature="e#122#123#0" expanded="true" />
             <element signature="e#183#184#0" expanded="true" />
