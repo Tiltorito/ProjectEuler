@@ -1,2 +1,2 @@
 # Solutions to Project euler problems
-Will upload solution in Java, Python, C++
+Will upload solutions in Java, Python, C++
